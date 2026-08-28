@@ -11,11 +11,11 @@ Each Pedro repository serves a specific role in the ecosystem:
 ## Complete all 10 Pedro STEM Lessons, collect every Pedro Badge, and become an official PEDRO MAKER! 🏆
 
 <div align="center">
-     <img src="img/pedro_maker.png" width="30%">
+     <img src="img/pedro_passport.png" width="100%">
 </div>
 
 <div align="center">
-     <img src="img/pedro_passport.png" width="100%">
+     <img src="img/pedro_badges.png" width="100%">
 </div>
 
 <br>
